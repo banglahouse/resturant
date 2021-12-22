@@ -1,0 +1,26 @@
+  {
+        "orderDetails": [
+            {
+                "itemid": 1,
+                "itemPrice": 250.0,
+                "qty" : 3
+            },
+            {
+                "itemid": 2,
+                "itemPrice": 200.0,
+                "qty" : 2
+            }
+        ],
+        "order": {
+            "total": 500.0, 
+            "user": {
+                "name": "Suman chakravarty",
+                "emailAddress": "suman@gmail.com",
+                "phone": "9527587416",
+                "address": "ganpat road 420 galli",
+                "item": "1",
+                "quantity": "2",
+                "total": "500"
+            }
+        }
+    }
